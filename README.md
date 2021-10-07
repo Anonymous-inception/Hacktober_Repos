@@ -10,7 +10,7 @@ Just follow the contribution guidelines and that's it, enjoy contributing :)<br>
 
 
 ### ISSUES AND PR:
-This is a beginner friendly repository where all those people who are new to open source can contribute, in any valid language. ¯\_(ツ)_/¯
+This is a beginner friendly repository where all those people who are new to open source can contribute, in any valid language. 🙌🏻
 
 
 ### Steps to contribute to this repo:
@@ -22,7 +22,7 @@ This is a beginner friendly repository where all those people who are new to ope
 -> commit the code
 -> Make pull request
 ```
-### HOW TO AMKE A PULL REQUEST:
+### HOW TO MAKE A PULL REQUEST:
 
 -- Fork the repository by clicking on the symbol at the top right corner.<br>
 
@@ -45,7 +45,10 @@ This is a beginner friendly repository where all those people who are new to ope
 
 -- Create a PR.<br>
 
-Follow official guidelines of hacktoberfest and tha's it :)
+## NOTE:
+CREATE A FOLDER FOR A CONTRIBUTING IN A CERTAIN LANGUAGE AND PUT YOUR FILES IN THE RESPECTIVE LANGUAGE/DOMAIN FOLDER WITH A PROPER DESCRIPTION ABOUT IT. IF DIDN'T FOUND THE FOLDER FOR DOMAIN/LANGUAGE YOU'RE LOOKING FOR, THEN CREATE A NEW ONE.<BR>
+
+Follow official guidelines of hacktoberfest and that's it :)
 <br>
 
 ### HAPPY CONTRIBUTION 🎉
