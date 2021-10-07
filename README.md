@@ -46,3 +46,6 @@ This is a beginner friendly repository where all those people who are new to ope
 -- Create a PR.<br>
 
 Follow official guidelines of hacktoberfest and tha's it :)
+<br>
+
+### HAPPY CONTRIBUTION 🎉
