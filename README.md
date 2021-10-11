@@ -10,7 +10,7 @@ Just follow the contribution guidelines and that's it, enjoy contributing :)<br>
 
 
 ### ISSUES AND PR:
-This is a beginner friendly repository where all those people who are new to open source can contribute, in any valid language. 🙌🏻
+This is a beginner friendly repository where all those people who are new to open source can contribute, in any language. 🙌🏻
 
 
 ### Steps to contribute to this repo:
