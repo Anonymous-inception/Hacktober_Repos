@@ -1,4 +1,4 @@
-//finds the sumof all even and all odd digits, and returns the greater value
+//finds the sum of all even and all odd digits, and returns the greater value
 
 #include<stdio.h>
 
